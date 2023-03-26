@@ -1,0 +1,12 @@
+Algorithm for threads
+
+Start.
+Philosopher i is thinking.
+Lock the left fork spoon.
+Lock the right fork spoon.
+Philosopher i is eating.
+sleep ()
+Release the left fork spoon.
+Release the right fork spoon.
+Philosopher i Finished eating.
+Stop.
