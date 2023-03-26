@@ -1,1 +1,0 @@
-# mini_philo_for_ENSA
